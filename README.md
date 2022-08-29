@@ -1,6 +1,6 @@
 # Randomuser
 
-This is a [Stadium](https://stadium.software) sample illustrating how to use an an API in the Stadium low-code enviroment. You will need the [Stadium Designer](https://stadium.software/download) in order to view and run the sample.
+This is a [Stadium](https://stadium.software) sample illustrating how to use an an API in the Stadium low-code enviroment.
 
 ## Steps to run the sample
 1. Download the [Stadium Designer](https://stadium.software/download)
